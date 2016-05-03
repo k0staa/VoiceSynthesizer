@@ -1,4 +1,4 @@
-package kostek.voicesynth.constants;
+package pl.codeaddict.voicesynth.constants;
 
 /**
  * Created by Michal Kostewicz on 30.04.16.

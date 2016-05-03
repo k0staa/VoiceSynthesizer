@@ -1,10 +1,10 @@
-package kostek.voicesynth.synthesizer;
+package pl.codeaddict.voicesynth.synthesizer;
 
 import com.sun.speech.freetts.Voice;
 import com.sun.speech.freetts.VoiceManager;
 import com.sun.speech.freetts.audio.SingleFileAudioPlayer;
 import de.dfki.lt.freetts.en.us.MbrolaVoiceDirectory;
-import kostek.voicesynth.constants.VoiceEnum;
+import pl.codeaddict.voicesynth.constants.VoiceEnum;
 import org.apache.commons.lang.ArrayUtils;
 
 import javax.sound.sampled.AudioFileFormat;

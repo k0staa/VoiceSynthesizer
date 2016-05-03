@@ -1,6 +1,6 @@
-package kostek.voicesynth.synthesizer;
+package pl.codeaddict.voicesynth.synthesizer;
 
-import kostek.voicesynth.constants.VoiceEnum;
+import pl.codeaddict.voicesynth.constants.VoiceEnum;
 
 /**
  * Created by Michal Kostewicz on 30.04.16.

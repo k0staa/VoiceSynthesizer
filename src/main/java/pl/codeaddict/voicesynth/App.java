@@ -1,8 +1,8 @@
-package kostek.voicesynth;
+package pl.codeaddict.voicesynth;
 
-import kostek.voicesynth.constants.VoiceEnum;
-import kostek.voicesynth.synthesizer.VoiceSynthesizer;
-import kostek.voicesynth.synthesizer.VoiceSynthesizerImpl;
+import pl.codeaddict.voicesynth.constants.VoiceEnum;
+import pl.codeaddict.voicesynth.synthesizer.VoiceSynthesizer;
+import pl.codeaddict.voicesynth.synthesizer.VoiceSynthesizerImpl;
 
 /**
  * Hello world!
